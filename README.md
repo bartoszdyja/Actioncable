@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/railsbeginner/Actioncable.svg)](https://travis-ci.org/railsbeginner/Actioncable)
+
 # Action Cable Examples
 
 A collection of examples showcasing the capabilities of Action Cable.
